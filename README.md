@@ -16,10 +16,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nusrat Jahan
+Hey 🙋🏻‍♀️, I'm Nusrat Jahan
 ====================================================================================================================================
 
 I'm a Learner, Problem Solver & Content Creator
+-----------------------------------------------
+- ⚡ Working as a part time Content Creator 🙅
+- ✌🏻 Currently trying to learn Django 🙅🏻‍♀️
+- 🎯 Determined to improve my technological skills 🙅
 -----------------------------------------------
 
 ### Skills
@@ -40,20 +44,20 @@ I'm a Learner, Problem Solver & Content Creator
 </p>
 
 
-### Socials
+### Connect with me
 
 <p align="left"> <a href="https://www.github.com/Nusrat-Jahan-Azz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/nusrat-xahan/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+![Profile views](https://gpvc.arturio.dev/Nusrat-Jahan-Azz)  
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Nusrat-Jahan-Azz"><img src="https://github-readme-stats.vercel.app/api?username=Nusrat-Jahan-Azz&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Nusrat-Jahan-Azz's GitHub stats" /></a>
+<a href="http://www.github.com/Nusrat-Jahan-Azz"><img src="https://github-readme-stats.vercel.app/api?username=Nusrat-Jahan-Azz&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=444e59&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="Nusrat-Jahan-Azz's GitHub stats" /></a>
 
-<a href="http://www.github.com/Nusrat-Jahan-Azz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nusrat-Jahan-Azz&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Nusrat-Jahan-Azz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nusrat-Jahan-Azz&stroke=444e59&background=000000&ring=f97316&fire=f97316&currStreakNum=444e59&currStreakLabel=f97316&sideNums=444e59&sideLabels=444e59&dates=444e59&hide_border=true" /></a>
 
-<a href="http://www.github.com/Nusrat-Jahan-Azz"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Nusrat-Jahan-Azz&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/Nusrat-Jahan-Azz"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Nusrat-Jahan-Azz&bg_color=000000&color=444e59&line=0891b2&point=444e59&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
